@@ -1,5 +1,5 @@
 {
-  "name": "izimodal",
+  "name": "izimodal-1.6.0",
   "description": "Elegant, responsive, flexible and lightweight modal plugin with jQuery.",
   "main": [
     "js/iziModal.js",
@@ -10,6 +10,11 @@
       "name": "Marcelo Dolce",
       "email": "dolcemarcelo@gmail.com",
       "homepage": "http://marcelodolce.com"
+    },
+    {
+      "name": "ZerglingGo",
+      "email": "zerglinggo@zerglinggo.net",
+      "homepage": "https://zerglinggo.net"
     }
   ],
   "license": "Apache-2.0",

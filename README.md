@@ -1,5 +1,6 @@
 # [iziModal](http://izimodal.dolce.ninja)
 [![CDNJS](https://img.shields.io/cdnjs/v/izimodal.svg)](https://cdnjs.com/libraries/izimodal)
+[![npmJS](https://img.shields.io/npm/v/izimodal-1.6.0.svg)](https://www.npmjs.com/package/izimodal-1.6.0)
 
 Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 
@@ -34,9 +35,9 @@ ___
 #### [CDNJS](https://cdnjs.com/libraries/izimodal)
 https://cdnjs.com/libraries/izimodal
 
-#### [npm](https://www.npmjs.com/package/izimodal)
+#### [npm](https://www.npmjs.com/package/izimodal-1.6.0)
 ```
-npm install izimodal --save
+npm install izimodal-1.6.0 --save
 ```
 
 #### bower
