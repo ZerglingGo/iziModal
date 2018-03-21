@@ -1,6 +1,6 @@
 {
   "name": "izimodal-1.6.0",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Elegant, responsive, flexible and lightweight modal plugin with jQuery.",
   "readmeFilename": "README.md",
   "main": "js/iziModal.js",
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/ZerglingGo/iziModal.git"
   },
-  "dependencies":{
+  "dependencies": {
     "jquery": "~2"
   },
   "keywords": [
